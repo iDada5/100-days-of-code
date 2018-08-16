@@ -44,3 +44,12 @@
 
 **Link to work:** 
     1. [FFC RegeX](http://www.freecodecamp.org)
+        
+### Day 6: August 14, 2018 - Tuesday
+
+**Today's Progress**: FFC Debugging
+
+**Thoughts:** Best part yet. 
+
+**Link to work:** 
+    1. [FFC RegeX](http://www.freecodecamp.org)
